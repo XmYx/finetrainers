@@ -1,0 +1,14 @@
+{
+  "datasets": [
+    {
+      "data_root": "mixy89/smoke-test",
+      "dataset_type": "video",
+      "id_token": "SM0K3",
+      "video_resolution_buckets": [
+        [49, 512, 768]
+      ],
+      "reshape_mode": "bicubic",
+      "remove_common_llm_caption_prefixes": true
+    }
+  ]
+}
